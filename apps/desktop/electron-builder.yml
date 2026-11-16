@@ -1,6 +1,6 @@
 extends: ./electron-builder.base.yml
 appId: com.differentai.openwork
-productName: OpenWork
+productName: NeoX
 protocols:
   - name: OpenWork
     schemes:
